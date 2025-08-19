@@ -1,0 +1,33 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.coverage
+*.egg-info/
+dist/
+build/
+
+# ---- Virtual environments ----
+venv/
+.envrc
+*.envrc
+*.swp
+
+# ---- Jupyter notebooks checkpoints ----
+.ipynb_checkpoints/
+
+# ---- Logs ----
+*.log
+
+# ---- Environment variables ----
+.env
+.env.*
+
+# ---- VSCode ----
+.vscode/
+
+# ---- MacOS & Linux ----
+.DS_Store
+Thumbs.db
